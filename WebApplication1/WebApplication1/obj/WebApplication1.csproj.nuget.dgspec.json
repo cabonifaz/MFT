@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CRIS BONIFAZ\\source\\repos\\MFT\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\CRIS BONIFAZ\\Source\\Repos\\MFT\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CRIS BONIFAZ\\source\\repos\\MFT\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\CRIS BONIFAZ\\Source\\Repos\\MFT\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRIS BONIFAZ\\source\\repos\\MFT\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\CRIS BONIFAZ\\Source\\Repos\\MFT\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\CRIS BONIFAZ\\source\\repos\\MFT\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\CRIS BONIFAZ\\Source\\Repos\\MFT\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\CRIS BONIFAZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRIS BONIFAZ\\source\\repos\\MFT\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\CRIS BONIFAZ\\Source\\Repos\\MFT\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
